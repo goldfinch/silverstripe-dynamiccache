@@ -1,5 +1,5 @@
 {
-    "name": "sunnysideup/silverstripe-dynamiccache",
+    "name": "goldfinch/silverstripe-dynamiccache",
     "description": "FORK OF Silverstripe module for simple on the fly caching of dynamic content",
     "type": "silverstripe-vendormodule",
     "keywords": [
@@ -19,7 +19,7 @@
         "issues": "http://github.com/tractorcow/silverstripe-dynamiccache/issues"
     },
     "require": {
-        "silverstripe/recipe-cms": "^4.2"
+        "silverstripe/recipe-cms": "^4.0 || ^5.0"
     },
     "extra": {
         "branch-alias": {
